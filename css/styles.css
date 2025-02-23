@@ -1,9 +1,9 @@
 body{
-    font-family: "Roboto",sans-serif;
-    color:#434455;
+    font-family: "Roboto", sans-serif
+    color: #434455;
     font-size:16px;
     line-height: 1.5;
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 h1{
     font-weight: bold;
@@ -28,10 +28,9 @@ ol, ul  {
     
 }
 /*header*/
-#header{
-    
-}
-.header-logo{
+header{
+    }
+.header_logo{
     font-family: "Raleway",sans-serif;
     font-size:18px;
     font-weight: 700;
